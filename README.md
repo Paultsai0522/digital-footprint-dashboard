@@ -1,6 +1,6 @@
-# Digital Amnesia Dashboard
+# Digital Footprint Dashboard
 
-Digital Amnesia Dashboard scans public social platforms for profiles matching a user's digital identity signals, helping users understand and track their online footprint.
+Digital Footprint Dashboard scans public social platforms for profiles matching a user's digital identity signals, helping users understand and track their online footprint.
 
 ## Demo
 
@@ -22,7 +22,7 @@ https://frontend-production-2b06.up.railway.app/
 |- frontend/
 |- scripts/
 |- worker/
-|- digital-amnesia-dashboard.sln
+|- digital-footprint-dashboard.sln
 `- package.json
 ```
 
